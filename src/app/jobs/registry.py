@@ -1,4 +1,4 @@
-# app/jobs/registry.py
+
 from typing import Callable, Dict
 
 JOB_REGISTRY: Dict[str, Callable] = {}

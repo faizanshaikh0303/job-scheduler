@@ -1,4 +1,4 @@
-# app/jobs/models.py
+
 from enum import Enum
 from pydantic import BaseModel
 from datetime import datetime
